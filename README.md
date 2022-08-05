@@ -8,6 +8,7 @@ The following libraries are included:
 - libexcept ([except.h](), [except.c]())
 - libvec ([vec.h](), [vec.c]())
 - libobj ([obj.h](), [obj.c]())
+- libproc ([proc.h](), [proc.c]())
 
 ## Notes
 
